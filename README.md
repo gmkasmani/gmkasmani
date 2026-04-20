@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E1117&height=220&section=header&text=GHULAM%20MUSTAFA%20KASMANI&fontSize=50&animation=soft&fontAlignY=38&desc=CHIEF%20TECHNOLOGY%20OFFICER%20|%20FOUNDER%20@%20KERNELTECH&descAlignY=62&descSize=18&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=220&section=header&text=GHULAM%20MUSTAFA%20KASMANI&fontSize=50&animation=soft&fontAlignY=38&desc=CHIEF%20TECHNOLOGY%20OFFICER%20|%20FOUNDER%20@%20KERNELTECH&descAlignY=62&descSize=18&fontColor=FFD700" />
 </p>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~your-id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6FDA44&center=true&vCenter=true&width=300&lines=🏆+UPWORK+TOP-RATED+PLUS" alt="Upwork Badge" />
+    <img src="https://img.shields.io/badge/UPWORK-TOP--RATED%20PLUS-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/EXPERIENCE-12+%20YEARS-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SUCCESS%20RATE-100%25-FFD700?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=500&color=0E75B6&center=true&vCenter=true&width=400&lines=⚡+12++YEARS+OF+ELITE+EXPERIENCE;🛡️+100%25+PROJECT+SUCCESS+RATE;💎+ENTERPRISE+SaaS+ARCHITECT" alt="Experience Stats" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=60&section=header" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=I+build+intelligent+scalable+systems+that+solve+complex+business+problems." />
 </p>
 
 ---
