@@ -50,14 +50,34 @@ With over a decade of experience in the digital frontier, I lead **KernelTech**�
 
 ---
 
-### 📈 Global Impact Dashboard
+🚀 Strategic Operational Capacity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmkasmani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0E75B6&icon_color=58A6FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmkasmani&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&text_color=FFFFFF" width="48%" />
+<img src="https://img.shields.io/badge/Daily_Uptime-99.9%25-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code_Quality-Enterprise_Grade-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Support-24/7_Post_Launch-0077B5?style=for-the-badge" />
 </p>
 
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gmkasmani&repo=idiogo&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=58A6FF" width="100%" />
+
+
+<i>Showcasing our primary B2B engine architecture.</i>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gmkasmani&repo=ai-system-backend&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=58A6FF" width="100%" />
+
+
+<i>LLM Orchestration & AI Data Intelligence.</i>
+</td>
+</tr>
+</table>
+
+📊 Professional Benchmarks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmkasmani&theme=tokyonight&hide_border=true&stroke=0E75B6&fire=58A6FF" width="97%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddassirshaikh&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&text_color=FFFFFF" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=muddassirshaikh&theme=tokyonight&no-frame=true&column=2&margin-w=15" width="48%" />
 </p>
 
 ---
