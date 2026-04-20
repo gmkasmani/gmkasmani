@@ -80,18 +80,6 @@ With over a decade of experience in the digital frontier, I lead **KernelTech**�
 
 ---
 
-### 💼 Professional Tech Stack Summary
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddassirshaikh&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&text_color=FFFFFF" width="48%" />
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,react,nextjs,vue,nuxt,ts,tailwind,docker,aws&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <i>"I lead <b>KernelTech</b> with a focus on writing clean, modular code that scales with your business goals."</i>
-</p>
-
----
-
 ### 🌟 Enterprise Solutions Delivered
 * 🧠 **LLM Data Analytics:** Built an interface querying complex retail logistics via Claude API.
 * 📦 **AI Marketplace:** Developed a multi-vendor engine with automated AI product SEO.
