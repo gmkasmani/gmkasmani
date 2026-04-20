@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: -15px;">
+<div align="center" style="margin-bottom: -30px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E1117&height=220&section=header&text=GHULAM%20MUSTAFA%20KASMANI&fontSize=50&animation=soft&fontAlignY=38&desc=CHIEF%20TECHNOLOGY%20OFFICER%20|%20FOUNDER%20@%20KERNELTECH&descAlignY=62&descSize=18&fontColor=FFFFFF" />
 </div>
 
