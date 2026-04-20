@@ -50,34 +50,44 @@ With over a decade of experience in the digital frontier, I lead **KernelTech**�
 
 ---
 
-🚀 Strategic Operational Capacity
+### 🏆 Expertise & Service Delivery
 <p align="center">
-<img src="https://img.shields.io/badge/Daily_Uptime-99.9%25-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code_Quality-Enterprise_Grade-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Support-24/7_Post_Launch-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Strategy-Software%20Architecture-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Top%20Rated%20Plus-6fda44?style=for-the-badge" />
 </p>
 
 <table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gmkasmani&repo=idiogo&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=58A6FF" width="100%" />
-
-
-<i>Showcasing our primary B2B engine architecture.</i>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gmkasmani&repo=ai-system-backend&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=58A6FF" width="100%" />
-
-
-<i>LLM Orchestration & AI Data Intelligence.</i>
-</td>
-</tr>
+  <tr>
+    <td align="left" width="50%">
+      <h4>🚀 Enterprise Scaling</h4>
+      <ul>
+        <li><b>Architecture:</b> Multi-tenant SaaS & Microservices.</li>
+        <li><b>Performance:</b> Database indexing & Query optimization.</li>
+        <li><b>Security:</b> Enterprise-grade encryption & Auth.</li>
+      </ul>
+    </td>
+    <td align="left" width="50%">
+      <h4>🧠 AI & Data Intelligence</h4>
+      <ul>
+        <li><b>LLMs:</b> Claude 3.5 & OpenAI API Orchestration.</li>
+        <li><b>Automation:</b> AI-driven SEO & Content Engines.</li>
+        <li><b>Analytics:</b> Real-time visual data processing.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-📊 Professional Benchmarks
+---
+
+### 💼 Professional Tech Stack Summary
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddassirshaikh&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&text_color=FFFFFF" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=muddassirshaikh&theme=tokyonight&no-frame=true&column=2&margin-w=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddassirshaikh&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&text_color=FFFFFF" width="48%" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,react,nextjs,vue,nuxt,ts,tailwind,docker,aws&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <i>"I lead <b>KernelTech</b> with a focus on writing clean, modular code that scales with your business goals."</i>
 </p>
 
 ---
