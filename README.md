@@ -80,6 +80,49 @@ With over a decade of experience in the digital frontier, I lead **KernelTech**�
 
 ---
 
+🛡️ Industry Standards & Certifications
+<p align="center">
+<img src="https://img.shields.io/badge/Security-OWASP%20Top%2010%20Compliant-0e75b6?style=flat-square&logo=gitbook&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Clean%20Code%20Certified-58A6FF?style=flat-square&logo=codefactor&logoColor=white" />
+<img src="https://img.shields.io/badge/Infrastructure-AWS%20Cloud%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Verified-Upwork%20Elite%20Talent-6fda44?style=flat-square&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Delivery-Agile%20Scrum%20Master-red?style=flat-square&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/API-Postman%20Certified-orange?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
+<b>Quality Score</b>
+
+
+<img src="https://img.shields.io/badge/A%2B-Excellence-brightgreen?style=for-the-badge" />
+</td>
+<td align="center" width="25%">
+<b>SLA Metrics</b>
+
+
+<img src="https://img.shields.io/badge/99%25-Uptime-0E75B6?style=for-the-badge" />
+</td>
+<td align="center" width="25%">
+<b>Support</b>
+
+
+<img src="https://img.shields.io/badge/Priority-VIP-blueviolet?style=for-the-badge" />
+</td>
+<td align="center" width="25%">
+<b>Vibe</b>
+
+
+<img src="https://img.shields.io/badge/Senior-Architect-black?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+---
+
 ### 🌟 Enterprise Solutions Delivered
 * 🧠 **LLM Data Analytics:** Built an interface querying complex retail logistics via Claude API.
 * 📦 **AI Marketplace:** Developed a multi-vendor engine with automated AI product SEO.
